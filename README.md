@@ -1,16 +1,61 @@
-### Hi there 👋
+### Hi There✌, I'm  Hrudayangam Mehta
+A Coder and a Machine learning enthusiast<br>
 
-<!--
-**Hrudayangam/Hrudayangam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="260" height="260" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-Here are some ideas to get you started:
+![robo hello](https://user-images.githubusercontent.com/51138087/93663951-39922d00-fa20-11ea-952b-48da7a6e5381.gif)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Computer Vision applications and NLP models 
+- 🌱 I’m currently learning Open Cv, Deep learning, Best practices in Data science, DSA and playing with data
+- 👯 I’m looking to collaborate on data science releated projects
+- 💬 Ask me about  ML,DataScience,EDA methods,Python.
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I am a dedicated gamer as well
+
+<br>
+
+![NASA code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=Hrudayangam&show_icons=true&theme=radical) 
+
+
+
+### Experience ⚓ 
+
+-Training and internship at IIT kanpur in ML with IOT
+
+### Languages and tools :<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
+
+
+- Python
+- Anaconda
+- Jupyter notebooks
+- VS Code
+- C++
+- Scikit learn
+- Pycharm
+- Tensorflow
+
+### Contact me
+
+<p align="left">
+   <a href="mailtohrudayangamnmehta@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="bhanot_kushal" height="50" width="35" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hrudayangam-mehta-b67699188/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="60" width="35" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/bun.ty_/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bhanot_kushal" height="50" width="35" /></a> &nbsp;&nbsp;
+    <a href="https://www.snapchat.com/add/hrudayangamnmeh"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg" alt="bhanot_kushal" height="50" width="35" /></a> &nbsp;&nbsp;
+
+</p>
+
+### Check out my coding skills
+<p align="left">
+  <a href="https://www.hackerrank.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kushalbhanot" height="60" width="45" /></a> &nbsp;&nbsp;
+</p>
+
+### Extras🎈🎈
+- 📜 [My Resume](https://drive.google.com/file/d/1mbhJTqEwtHoWJGw9HtTirNupgxTeYbtN/view?usp=sharing)
+
+
+<p align="center"> 
+❤️ Thank you for visiting my Github Profile ❤️</b>
+</p>
