@@ -53,7 +53,7 @@ A Coder and a Machine learning enthusiast<br>
 </p>
 
 ### Extras🎈🎈
-- 📜 [My Resume](https://drive.google.com/file/d/1mbhJTqEwtHoWJGw9HtTirNupgxTeYbtN/view?usp=sharing)
+- 📜 [My Resume](https://drive.google.com/file/d/1lZhCDE1Z1wzxYykElLFRghjDhHr_Z-qg/view?usp=sharing)
 
 
 <p align="center"> 
